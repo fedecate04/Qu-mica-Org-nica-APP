@@ -1,0 +1,20 @@
+catedra: "Química Orgánica – UTN FRN"
+profesor: "A completar"
+autores:
+  - "Catereniuc Federico"
+  - "Carrasco Federico"
+introduccion: |
+  La Química Orgánica es un pilar de la ciencia y de la industria moderna.
+  Abarca desde la síntesis de fármacos y polímeros hasta los procesos del
+  petróleo y gas. Este repositorio académico organiza contenidos de la
+  materia en forma clara y accesible: apuntes, clases, ejercicios y material
+  complementario, con criterios de citación y calidad.
+temas:
+  - id: "01_alcanos"
+    titulo: "Alcanos"
+    resumen: "Estructura, nomenclatura, propiedades físicas y reactividad general."
+    tags: ["Estructura", "Propiedades"]
+  - id: "02_alquenos"
+    titulo: "Alquenos"
+    resumen: "Alquenos: enlace doble, adiciones, regioselectividad y estereoquímica."
+    tags: ["Reacciones", "Mecanismos"]

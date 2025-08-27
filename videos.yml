@@ -1,0 +1,9 @@
+videos:
+  - titulo: "Clase 1 – Introducción a Alcanos"
+    url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+audios:
+  - titulo: "Audio-resumen Alcanos"
+    url: "https://samplelib.com/lib/preview/mp3/sample-3s.mp3"
+material:
+  - titulo: "Resumen en PDF (externo)"
+    url: "https://example.com/resumen-alcanos.pdf"
